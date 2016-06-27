@@ -1,1 +1,1 @@
-var journal = ["This is overwhelming"];
+var journal = ["This is overwhelming", "This is rough"];
